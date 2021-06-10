@@ -1,0 +1,42 @@
+SongNo,PlaySongNo,CountryName,CountryCode,Title,Singer,FirstLyric,Auth,PlayType,SongType,GenreCode,ThemeCode,Gender,ManKey,WomanKey,BaseKey,ABKey,OrgKey,VolumeSet,RhythmChangeFlag,DEX,JJJ,Tempo,PlayTempo,ExpDate,SingerCode,PublishDate,UpdateDate
+60000,0,JPN,3,Freedom Dive↓,Xi,instrumental,1,AA,MIDI,,,1,+0,+0,G,G,G,0,Y,HHP,999,222,0,,0000,20010101,20200916
+60001,0,KOR,0,Raindrop Flower,Nexon,instrumental,1,AA,MIDI,,,1,+0,+0,C,C,C,0,Y,HHP,999,110,0,,0000,20010101,20200916
+60002,0,KOR,0,레이스의 시작(카트라이더OST),Nexon,instrumental,1,AD,MIDI,,,1,+0,+0,C,C,C,0,Y,HHP,999,132,0,,0000,20010101,20200916
+60003,0,JPN,3,おわりとはじまりのおと(VOEZ OST),梅干茶漬け,instrumental,1,AD,MIDI,,,1,+0,+0,C,C,C,0,Y,ROB,JJJ,132,0,,0000,20010101,20200917
+60004,0,KOR,0,소나티네 Op.36 No.3,Clementi,instrumental,1,AD,MIDI,,,1,+0,+0,D,D,D,0,Y,ROB,JJJ,132,0,,0000,20010101,20200919
+60005,0,KOR,0,Circus Galop,Marc-André Hamelin,instrumental,1,AD,MIDI,,,1,+0,+0,D,D,D,0,Y,ROB,JJJ,132,0,,0000,20010101,20200919
+60006,0,JPN,3,Endless Story(C3-シーキューブ- OP),田村ゆかり,誰も知る人のいない,1,AD,MIDI,,,0,+0,+5,F,F,F,0,Y,ROB,JJJ,186,0,,0000,20200925,20200917
+60007,0,KOR,0,Over The Horizon (Samsung Galaxy S6 Theme),Samsung,instrumental,1,AD,MIDI,,,0,+0,+5,C,C,C,0,Y,ROB,JJJ,186,0,,0000,20200930,20200917
+60009,0,KOR,0,김세균 주제가,Nerim,김세균 비하하면,1,AD,MIDI,,,0,-5,+0,Db,Db,Db,0,Y,ROB,JJJ,130,0,,0000,20210131,20210131
+60010,0,KOR,0,금영의 노래,금영,태백산 뻗어 내린,1,AD,MIDI,,,1,+0,+5,F,F,F,0,Y,ROB,JJJ,120,0,,0000,20210222,20210222
+60011,0,KOR,0,TECHNO CLUB,Vol.3,instrumental,1,AD,MIDI,,,0,-5,+0,Cm,Cm,Cm,0,Y,ROB,JJJ,120,0,,0000,20210222,20210222
+60012,0,KOR,0,"Weigh Anchor! (게임 ""벽람항로"")",Raon Lee,차갑게 일렁이는,1,AD,MIDI,,,0,-5,+0,D,D,D,0,Y,ROB,JJJ,120,0,,0000,20210223,20210223
+60013,0,KOR,0,삼각함수의 노래,오남진,노래를 부르면서,1,AD,MIDI,,,1,+0,+5,F,F,F,0,Y,ROB,JJJ,120,0,,0000,20210225,20210225
+60014,0,ENG,1,Vodka,Korpiklaani,"vodka, you are fe",1,AD,MIDI,,,1,+0,+5,Dm,Dm,Dm,0,Y,ROB,JJJ,180,0,,0000,20210225,20210225
+60015,0,ENG,1,Caramelldansen(Speedcake Remix),Caramell,Vi undrar är ni redo att,1,AD,MIDI,,,0,-6,+0,F#m,F#m,F#m,0,Y,ROB,JJJ,165,0,,0000,20210227,20210227
+60016,0,KOR,0,패션시티,개콘 전국구,여긴 패션 시티,1,AD,MIDI,,,1,+0,+5,Am,Am,Am,0,Y,ROB,JJJ,130,0,,0000,20210228,20210228
+60017,0,KOR,0,There's Something About Supertank,포트리스 2,instrumental,1,AD,MIDI,,,0,-6,+0,G,G,G,0,Y,ROB,JJJ,136,0,,0000,20210305,20210305
+60018,0,KOR,0,썩던콩,403 Forbiddena,썩던콩,1,AD,MIDI,,,1,+0,+5,B,B,B,0,Y,ROB,JJJ,171,0,,0000,20210308,20210308
+60019,0,ENG,1,Valley Of The Damned,DragonForce,On a cold dark winter,1,AD,MIDI,,,1,+0,+5,G,G,G,0,Y,ROB,JJJ,200,0,,0000,20210312,20210312
+60020,0,ENG,1,Overworld Theme,New Super Mario Bros.,instrumental,1,AD,MIDI,,,1,+0,+5,F,F,F,0,Y,ROB,JJJ,200,0,,0000,20210315,20210315
+60021,0,JPN,3,我愛北京天安門,童謡,我愛北京天安門,1,AD,MIDI,,,0,-5,-1,D,D,D,0,Y,ROB,JJJ,130,0,,0000,20210415,20210415
+60022,0,JPN,3,Make debut!,スピカ[スペシャルウィーク(CV.和氣あず未)、サイレンススズカ(CV.高野麻里佳)、トウカイテイオー(CV.Machico)、ウオッカ(CV.大橋彩香)、ダイワスカーレット(CV.木村千咲)、ゴールドシップ(CV.上田瞳)、メジロマックイーン(CV.大西沙織)],響けファンファーレ,1,AD,MIDI,,,0,-5,+0,C,C,C,0,Y,ROB,JJJ,180,0,,0000,20210521,20210521
+60023,0,JPN,3,ささやかな祈り,ライスシャワー(CV.石見舞菜香),ねえ三日月あなたも迷う時が,1,AD,MIDI,,,0,-5,+0,E,E,E,0,Y,ROB,JJJ,79,0,,0000,20210601,20210601
+60024,0,JPN,3,ささやかな祈り(TV Size),ライスシャワー(CV.石見舞菜香),ねえ三日月あなたも迷う時が,1,A2,MR,,,0,-5,+0,E,E,E,0,Y,SWG,999,79,0,,0000,20210604,20210604
+60025,0,JPN,3,うまぴょい伝説(TV Size),スペシャルウィーク(和氣あず未)、サイレンススズカ(高野麻里佳)、トウカイテイオー(Machico),位置についてよーいドン！うー,1,A2,MR,,,0,-5,+0,Gm,Gm,Gm,0,Y,SWG,999,170,0,,0000,20210604,20210604
+60026,0,KOR,0,TECHNO CLUB,Vol.1,instrumental,1,AD,MIDI,,,1,-5,+0,C,C,C,0,Y,ROB,JJJ,120,0,,0000,20210606,20210606
+60027,0,KOR,0,TECHNO CLUB,Vol.2,instrumental,1,AD,MIDI,,,1,-5,+0,C,C,C,0,Y,ROB,JJJ,120,0,,0000,20210606,20210606
+60028,0,KOR,0,TECHNO CLUB,Vol.3,instrumental,1,AD,MIDI,,,1,-5,+0,C,C,C,0,Y,ROB,JJJ,120,0,,0000,20210606,20210606
+60029,0,KOR,0,TECHNO CLUB,Vol.4,instrumental,1,AD,MIDI,,,1,-5,+0,C,C,C,0,Y,ROB,JJJ,120,0,,0000,20210606,20210606
+60030,0,KOR,0,TECHNO CLUB,Vol.5,instrumental,1,AD,MIDI,,,1,-5,+0,C,C,C,0,Y,ROB,JJJ,120,0,,0000,20210606,20210606
+60031,0,KOR,0,TECHNO CLUB,Vol.6,instrumental,1,AD,MIDI,,,1,-5,+0,C,C,C,0,Y,ROB,JJJ,120,0,,0000,20210606,20210606
+60032,0,KOR,0,TECHNO CLUB,Vol.7,instrumental,1,AD,MIDI,,,1,-5,+0,C,C,C,0,Y,ROB,JJJ,120,0,,0000,20210606,20210606
+60033,0,CHN,2,摇舞曲联奏,DISCO,instrumental,1,AD,MIDI,,,0,-5,+0,C,C,C,0,Y,ROB,JJJ,120,0,,0000,20210606,20210606
+60034,0,CHN,2,摇舞曲联奏 2,DISCO,instrumental,1,AD,MIDI,,,0,-5,+0,C,C,C,0,Y,ROB,JJJ,120,0,,0000,20210606,20210606
+60035,0,KOR,0,호빵맨,만화영화주제가,용감한 어린이의 친구,1,AD,MIDI,,,1,-5,+0,Abm,Abm,Abm,0,Y,ROB,JJJ,120,0,,0000,20210606,20210606
+60036,0,JPN,3,木漏れ日のエール,"トウカイテイオー (CV.Machico)、メジロマックイーン (CV.大西沙織)
+","通り雨に凍えながら
+",1,AD,MIDI,,,0,-5,+0,A,A,A,0,Y,ROB,JJJ,132,0,,0000,20210608,20210608
+60037,0,JPN,3,木漏れ日のエール,"トウカイテイオー (CV.Machico)、メジロマックイーン (CV.大西沙織)
+","通り雨に凍えながら
+",1,AD,MR,,,0,-5,+0,A,A,A,0,Y,SWG,999,132,0,,0000,20210610,20210610
